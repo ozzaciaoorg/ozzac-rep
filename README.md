@@ -8,3 +8,5 @@ questa richiede approvazione 4 LAST secondo PIPPO
 MOdifica remota e LOCALE
 
 CHANGED REMOTE e LOCAL
+
+modifica sul branch locale
