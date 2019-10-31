@@ -1,1 +1,1 @@
-ciao
+ciao 3 da locale
