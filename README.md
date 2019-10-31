@@ -5,4 +5,5 @@ AGGIUNGO SU BRNCH LOCALE mi sono dimenticato 2
 
 questa richiede approvazione 4 LAST secondo PIPPO
 
-MOdifica remota
+MOdifica remota e LOCALE
+
