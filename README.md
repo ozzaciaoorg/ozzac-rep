@@ -7,4 +7,4 @@ questa richiede approvazione 4 LAST secondo PIPPO
 
 MOdifica remota e LOCALE
 
-CHANGED LOCAL
+CHANGED REMOTE e LOCAL
