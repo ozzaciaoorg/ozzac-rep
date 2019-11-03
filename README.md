@@ -10,3 +10,5 @@ MOdifica remota e LOCALE
 CHANGED REMOTE e LOCAL
 
 modifica sul branch locale
+
+MODIFICA su master
