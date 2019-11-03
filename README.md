@@ -11,4 +11,4 @@ CHANGED REMOTE e LOCAL
 
 modifica sul branch locale
 
-MODIFICA su master
+MODIFICA su master new_branch2
