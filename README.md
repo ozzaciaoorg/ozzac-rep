@@ -12,3 +12,5 @@ CHANGED REMOTE e LOCAL
 modifica sul branch locale
 
 MODIFICA su master
+
+HO MODIFICATO IL MASTER
