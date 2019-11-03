@@ -12,3 +12,5 @@ CHANGED REMOTE e LOCAL
 modifica sul branch locale
 
 NEW BRANCH  AND   MODIFICA su master
+
+HO MODIFICATO IL NEW_BRANCH
